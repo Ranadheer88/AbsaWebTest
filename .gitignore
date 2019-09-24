@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+*.iws
+log/
+.DS_Store
+~$Testdata.xlsx
